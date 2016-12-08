@@ -7,5 +7,6 @@ css3
 javascript
 jQuery
 
+mājas lapa tiek turēta uz http://elatvia.net/ ,ar subdomainu. 
 
 http://rvtmiksauto.mypressonline.com/
